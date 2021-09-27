@@ -165,7 +165,7 @@ html {
 
 .contact {
     background-color: rgb(230, 228, 231);
-    height: 433px;
+    height: 557px;
 }
 
 .text-center {
@@ -180,7 +180,7 @@ html {
     margin: 21px auto;
 }
 
-.form input {
+.form-input {
     margin: 14px 0;
     padding: 5px 3px;
     width: 100%;
@@ -188,6 +188,10 @@ html {
     border: 2px solid grey;
     border-radius: 6px;
     font-family: 'Merriweather', serif;
+}
+
+.feedback {
+    height: 150px;
 }
 
 .text-footer {
